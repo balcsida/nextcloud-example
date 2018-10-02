@@ -1,0 +1,7 @@
+{
+  "id": "nextcloud",
+  "image": "nextcloud:14.0.1",
+  "healthCheck": {
+    "url": "localhost"
+  }
+}
